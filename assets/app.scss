@@ -85,6 +85,15 @@ footer {
   background-size: contain;
 }
 
+.ErrorImage{
+  background-image: url('@images/Neuneu_404.gif');
+  background-repeat: no-repeat;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  background-size: contain;
+}
+
 @media all and (max-width: 197px) {
   .footer {
     position: relative;
