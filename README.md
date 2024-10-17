@@ -67,4 +67,3 @@ Si vous avez des fichiers CSS ou JavaScript à compiler, utilisez npm :
 npm install
 npm run dev
 ```
-# CFSMA-Symfony7-vite.js
